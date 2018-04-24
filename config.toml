@@ -1,13 +1,13 @@
 baseURL = "//nekomimirouter.com/"
 languageCode = "en-us"
-title = "NekomimiRouter"
+title = "NekomimiRouter.com"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = "UA-118080991-1"
 
 [params]
     author = "James Swineson"
-    description = "A set of young people who likes taking z-turns."
+    description = "For networking amateurs who like z-turns."
     githubUsername = "#"
     accent = "lightblue"
     showBorder = true

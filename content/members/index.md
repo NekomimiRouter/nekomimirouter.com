@@ -5,8 +5,6 @@ tags: []
 draft: false
 ---
 
-# Members
-
 ## Registered Autonomous Systems
 
  * Yuchen Ma (AS204185)
