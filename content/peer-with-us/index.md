@@ -13,7 +13,7 @@ If you also run non-profit networks, you may peer with us. We run [DN42](https:/
 
 To reach us, click on the e-mail button on the top-right corner of this page.
 
-Note: we **DO NOT** provide public service, and our services have **no SLA**.
+Note: we **DO NOT** provide public commercial service, and our services have **no SLA**.
 
 ## Our Autonomous System Numbers
 
