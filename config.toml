@@ -9,7 +9,7 @@ googleAnalytics = "UA-118080991-1"
     author = "James Swineson"
     description = "For networking amateurs who like z-turns."
     githubUsername = "#"
-    accent = "lightblue"
+    accent = "#1490d7"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -23,18 +23,18 @@ googleAnalytics = "UA-118080991-1"
     weight = 1
 
 [[menu.main]]
-    url = "/members"
+    url = "/members/"
     name = "Members"
     weight = 2
 
 [[menu.main]]
-    url = "/posts/"
-    name = "Posts"
+    url = "/peer-with-us/"
+    name = "Peer with us!"
     weight = 3
 
 [[menu.main]]
-    url = "/projects/"
-    name = "Projects"
+    url = "/dns-over-https"
+    name = "DNS over HTTPS"
     weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar
