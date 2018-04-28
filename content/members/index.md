@@ -10,6 +10,7 @@ draft: false
 - Yuchen Ma (AS204185)
 - Huanjie Zhu (AS205610)
 - LuvLetter
+- Wencey Wang (AS205532)
 
 ## Contact
 
