@@ -33,7 +33,7 @@ googleAnalytics = "UA-118080991-1"
     weight = 3
 
 [[menu.main]]
-    url = "/dns-over-https"
+    url = "https://dns-over-https.com/"
     name = "DNS over HTTPS"
     weight = 4
 
