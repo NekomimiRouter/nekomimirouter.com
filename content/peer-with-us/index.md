@@ -22,7 +22,7 @@ Note: we **DO NOT** provide public commercial service, and our services have **n
 - DN42 AS4242420086 (James' Transits)
 - DN42 AS4242423389 (Star's Lab)
 
-## Points of precense
+## Points of presense
 
 Our infrastructure includes:
 
@@ -34,7 +34,7 @@ Our infrastructure includes:
 - Los Angeles, United States
 - Qingdao, China
 - Shanghai, China
-- Tokyo, Japan
+- Tokyo, Japan ([HomeNOC](https://www.homenoc.ad.jp))
 
 The list changes from time to time and may be out-of-date because we constantly run out of our pocket money.
 
