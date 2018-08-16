@@ -17,7 +17,11 @@ Note: we **DO NOT** provide public commercial service, and our services have **n
 
 ## Our Autonomous System Numbers
 
+- AS138037 (NekomimiRouter.com Route Server)
+- AS43126 (Little Moe LLC)
+- AS134575 (Gamcheong Yuen)
 - AS204185 (Yuchen Ma)
+- AS205532 (Zichao Heng)
 - AS205610 (Huanjie Zhu)
 - DN42 AS4242420086 (James' Transits)
 - DN42 AS4242423389 (Star's Lab)
@@ -34,6 +38,7 @@ Our infrastructure includes:
 - Los Angeles, United States
 - Qingdao, China
 - Shanghai, China
+- Shenzhen, China
 - Tokyo, Japan ([HomeNOC](https://www.homenoc.ad.jp))
 
 The list changes from time to time and may be out-of-date because we constantly run out of our pocket money.
@@ -45,7 +50,10 @@ We support:
 - EoIP/IPsec
 - GRE
 - GRE/IPsec
+- IPIP/IPsec
+- VTI/IPsec
 - Tinc
+- OpenVPN
 - WireGuard
 - ZeroTier
 
