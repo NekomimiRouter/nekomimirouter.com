@@ -1,6 +1,5 @@
 languageCode = "en-us"
 title = "NekomimiRouter.com"
-theme = "minimal"
 
 [params]
     author = "James Swineson"
