@@ -11,6 +11,7 @@ draft: false
 - Huanjie Zhu (AS205610)
 - LuvLetter
 - Wencey Wang (AS205532)
+- Dark Kowalski 
 
 ## Contact
 
