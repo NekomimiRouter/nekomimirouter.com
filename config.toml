@@ -1,5 +1,6 @@
 languageCode = "en-us"
 title = "NekomimiRouter.com"
+relativeURLs = true
 
 [params]
     author = "James Swineson"
