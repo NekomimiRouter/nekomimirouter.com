@@ -16,12 +16,7 @@
 
         {{ partial "analytics" . }}
     </head>
-
-    {{ if .Site.Params.MathJax | default true }}
-    <!-- adds MathJax support -->
-    <script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha256-SDRP1VVYu+tgAGKhddBSl5+ezofHKZeI+OzxakbIe/Y=" crossorigin="anonymous" async></script>
-    {{ end }}
-
+    
     <body>
         {{ partial "body-open" . }}
         <nav class="navbar navbar-default navbar-fixed-top">
