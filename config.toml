@@ -5,7 +5,6 @@ theme = "minimal"
 [params]
     author = "James Swineson"
     description = "For networking amateurs who like z-turns."
-    githubUsername = "#"
     accent = "#1490d7"
     showBorder = true
     backgroundColor = "white"
