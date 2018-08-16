@@ -16,7 +16,7 @@
 
         {{ partial "analytics" . }}
     </head>
-    
+
     <body>
         {{ partial "body-open" . }}
         <nav class="navbar navbar-default navbar-fixed-top">
@@ -36,7 +36,6 @@
                 </div>
 
                 <div class="collapse navbar-collapse">
-
                     {{ if .Site.Menus.main }}
                         <ul class="nav navbar-nav">
                             {{ range sort .Site.Menus.main }}
@@ -52,7 +51,6 @@
                             {{ end }}
                         </ul>
                     {{ end }}
-
                 </div>
 
             </div>
