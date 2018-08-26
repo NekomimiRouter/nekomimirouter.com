@@ -13,7 +13,7 @@ If you also run non-profit networks, you may peer with us. We run [DN42](https:/
 
 To reach us, click on the e-mail button on the top-right corner of this page.
 
-Note: we **DO NOT** provide public commercial service, and our services have **no SLA**.
+Note: we **DO NOT** provide public commercial service, and our services have **no SLA**. We reserve the rights to accept or reject any requests based on our preference.
 
 ## Our Autonomous System Numbers
 
@@ -41,20 +41,27 @@ Our infrastructure includes:
 - Shenzhen, China
 - Tokyo, Japan ([HomeNOC](https://www.homenoc.ad.jp))
 
-The list changes from time to time and may be out-of-date because we constantly run out of our pocket money.
+(The list changes from time to time and may be out-of-date because we constantly run out of our pocket money.)
 
 ## Tunneling to us
 
 We support:
 
+- OpenVPN
+- Tinc
+- WireGuard
+- ZeroTier
 - EoIP/IPsec
-- GRE
 - GRE/IPsec
 - IPIP/IPsec
 - VTI/IPsec
-- Tinc
-- OpenVPN
-- WireGuard
-- ZeroTier
 
-Alternatively, you may colocate a router, a Raspberry Pi, or other devices on colocation racks located in our bedrooms.
+We disable IKEv1 as well as weak ciphers (e.g. non-PFS or 3DES) for security.
+
+## Bedroom colocation service
+
+Alternatively, you may colocate a router, a server, a Raspberry Pi, or other devices on colocation racks located in our bedrooms, if they are small, quiet, and cool.
+
+Since we constantly move home, please consult us for locations available.
+
+(We reserve the rights to check, disassemble, or even reject your devices for safety reasons, usually for DIY devices.)

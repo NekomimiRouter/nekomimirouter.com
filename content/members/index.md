@@ -7,10 +7,10 @@ draft: false
 
 ## Operators at NekomimiRouter.com
 
+- Little Moe LLC (AS43126)
 - Yuchen Ma (AS204185)
 - Huanjie Zhu (AS205610)
 - LuvLetter
-- Little Moe LLC (AS43126)
 - Wencey Wang (AS205532)
 - Dark Kowalski 
 - Gamcheong Yuen (AS134575)
