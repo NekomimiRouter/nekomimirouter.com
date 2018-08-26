@@ -8,7 +8,7 @@ draft: false
 ## Operators at NekomimiRouter.com
 
 - Little Moe LLC (AS43126)
-- Dream Recovery, Co. Ltd.
+- Dream Recovery Ltd
 - Yuchen Ma (AS204185)
 - Huanjie Zhu (AS205610)
 - LuvLetter
