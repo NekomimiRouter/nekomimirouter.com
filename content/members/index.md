@@ -15,6 +15,7 @@ draft: false
 - Wencey Wang (AS205532)
 - Dark Kowalski 
 - Gamcheong Yuen (AS134575)
+- Aurura Solutions Ltd (AS138190)
 
 ## Contact
 
