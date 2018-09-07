@@ -16,6 +16,7 @@ draft: false
 - Dark Kowalski 
 - Gamcheong Yuen (AS134575)
 - Aurura Solutions Ltd (AS138190)
+- HexHu (AS138181)
 
 ## Contact
 
