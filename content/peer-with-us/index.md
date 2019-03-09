@@ -1,6 +1,6 @@
 ---
 title: "Peer with us!"
-date: 2017-11-13
+date: 2019-3-9
 tags: []
 draft: false
 ---
@@ -19,6 +19,7 @@ Note: we **DO NOT** provide public commercial service, and our services have **n
 
 - AS138037 (NekomimiRouter.com Route Server)
 - AS43126 (Little Moe LLC)
+- AS48883 (Akeno Network Ltd)
 - AS134575 (Gamcheong Yuen)
 - AS204185 (Yuchen Ma)
 - AS205532 (Zichao Heng)
