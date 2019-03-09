@@ -13,7 +13,7 @@ draft: false
 - Huanjie Zhu (AS205610)
 - LuvLetter
 - Wencey Wang (AS205532)
-- Dark Kowalski (AS48884)
+- Dark Kowalski (AS48883)
 - Gamcheong Yuen (AS134575)
 - Aurura Solutions Ltd (AS138190)
 - HexHu (AS138181)
