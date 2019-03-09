@@ -1,0 +1,31 @@
+<style>
+
+    html body {
+        font-family: '{{ .Site.Params.font }}', sans-serif;
+        background-color: {{ .Site.Params.backgroundColor | default "white" }};
+    }
+
+    :root {
+        --accent: {{ .Site.Params.accent | default "#2196F3" }};
+        --border-width: {{ if .Site.Params.showBorder | default false }} 5px {{ else }} 0 {{ end }};
+    }
+
+</style>
+
+<!-- google fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ .Site.Params.font }}">
+
+<!-- highlight.js -->
+{{ if .Site.Params.highlight | default false }} <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/{{ .Site.Params.highlightStyle | default "default" }}.css"> {{ end }}
+
+<!-- bootstrap -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous">
+
+<!-- font awesome -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous">
+
+<!-- main -->
+<link rel="stylesheet" href="{{ "/css/main.css" | absURL }}">
+
+<!-- custom -->
+{{ range .Site.Params.css }} <link rel="stylesheet" href="{{ . | absURL }}"> {{ end }}
