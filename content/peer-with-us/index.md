@@ -39,6 +39,7 @@ Our infrastructure includes:
 - Fremont, United States ([Little Moe Network](http://littlemoenew.com/))
 - Guangzhou, China ([YJSNPIX Exchange](https://www.peeringdb.com/ix/1932))
 - Hangzhou, China
+- Kowloon, Hong Kong
 - Los Angeles, United States
 - Qingdao, China
 - Shanghai, China
