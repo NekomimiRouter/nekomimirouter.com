@@ -15,6 +15,7 @@ draft: false
 - Wencey Wang (AS205532)
 - Dark Kowalski (AS48883)
 - Gamcheong Yuen (AS134575)
+- Nagaru Furukawa
 - Aurura Solutions Ltd (AS138190)
 - HexHu (AS138181)
 - Wu Zhiyuan (AS209650)
