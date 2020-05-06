@@ -38,6 +38,6 @@ relativeURLs = true
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:x-from-nekomimirouter.com@public.swineson.me"
+    url = "mailto:noc-from-website@nekomimirouter.com"
     name = "envelope-o"
     weight = 1
