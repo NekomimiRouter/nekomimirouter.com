@@ -1,6 +1,6 @@
 ---
 title: "Members"
-date: 2019-03-09
+date: 2020-06-30
 tags: []
 draft: false
 ---
@@ -21,6 +21,7 @@ draft: false
 - Wu Zhiyuan (AS209650)
 - Little Ori
 - Nato Research Ltd (AS46997)
+- Maeeko Internet Laboratory ([futa.moe](https://futa.moe/maeeko/))
 
 ## Contact
 
