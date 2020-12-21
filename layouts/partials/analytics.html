@@ -11,20 +11,20 @@
 {{ end }}
 
 <script type="text/javascript">
-    var _paq = _paq || [];
-    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-    _paq.push(["setCookieDomain", "*.nekomimirouter.com"]);
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {
-      var u="//t.nekomimiswitch.com/";
-      _paq.push(['setTrackerUrl', u+'piwik.php']);
-      _paq.push(['setSiteId', 'JwmGjMz27o8xmP09kv1543NPE']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-    })();
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.nekomimirouter.com"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://t.nekomimiswitch.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '26']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
 </script>
-<noscript><p><img src="//t.nekomimiswitch.com/piwik.php?idsite=JwmGjMz27o8xmP09kv1543NPE&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<noscript><p><img src="https://t.nekomimiswitch.com/matomo.php?idsite=26&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 
 <script type="text/javascript">
      var appInsights=window.appInsights||function(a){
