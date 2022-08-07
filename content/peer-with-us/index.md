@@ -31,6 +31,7 @@ Note: we **DO NOT** provide public commercial service, and our services have **n
 - DN42 AS4242420086 (James' Transits)
 - DN42 AS4242423389 (Star's Lab)
 - DN42 AS209557 / AS4242421214 (SteveYi Network Service)
+- AS147048 (Feiran Qin)
 
 ## Points of presense
 
